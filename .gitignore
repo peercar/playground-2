@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+pnpm-lock.yaml
+
+# Compiled output
+dist
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage
+.nyc_output
+
+# Misc
+*.tsbuildinfo
